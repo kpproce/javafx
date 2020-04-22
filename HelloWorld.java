@@ -29,7 +29,6 @@ public class HelloWorld extends Application {
         	artikelLijst.add(new Artikel("Printer", "125"));
         	artikelLijst.add(new Artikel("Wifi mouse", "15"));
         	
-        	
             // set title for the stage 
             stage.setTitle("HBox"); 
   
