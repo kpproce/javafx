@@ -1,0 +1,24 @@
+Javafx (gui/voorbeeld) 
+
+javafx is beetje verouderd, maar wordt zeker nog wel gebruikt. Andere opties zijn behoorlijk ingewikkelder. 
+
+Is te combineren met je classes, vervang eigenlijk je driver class en schrijven naar je console
+
+
+Beschikbaar maken in eclipse : 
+
+Zie: https://youtu.be/ejx3VxuIc8w (is nog te verstaan...) 
+Ik heb de jar file gebruikt (eerste optie die hij uitwerkt) 
+
+
+
+Daarna heb ik een nieuw project aangemaakt en werkende voorbeeld code van de volgende website gehaald:
+https://www.geeksforgeeks.org/javafx-hbox-class/
+
+De schermpjes werken met hbox en vbox. Daar moet je wat mee proberen.
+
+Zie ook: https://riptutorial.com/javafx/example/6967/hbox-and-vbox
+
+Daarna heb ik hbox in vbox gezet en zelf een label geplaatst en gevuld.
+
+De files vind je op github in dezelfde map als deze uitleg.
